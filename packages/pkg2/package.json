@@ -1,6 +1,6 @@
 {
   "name": "pkg2-ttest",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "shixintian <809731080@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "pkg1-ttest": "^0.0.4"
+    "pkg1-ttest": "^0.0.5"
   },
   "gitHead": "93ea955165f470ed9d429483f9d2be0d10933167"
 }
