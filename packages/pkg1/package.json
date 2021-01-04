@@ -1,5 +1,5 @@
 {
-  "name": "pkg1",
+  "name": "pkg1-test",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "shixintian <809731080@qq.com>",
@@ -14,9 +14,10 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "c4d2bb65c67e2508790ea34607498de4d7ca58ce"
 }
