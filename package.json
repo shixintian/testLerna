@@ -1,6 +1,7 @@
 {
   "name": "root",
   "version": "0.0.0",
+  "license": "ISC",
   "devDependencies": {
     "lerna": "^3.22.1"
   }
