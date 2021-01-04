@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "shixintian <809731080@qq.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/pkg1.js",
   "directories": {
     "lib": "lib",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "28c33e19620fa7c0885217de2a85ddf0adf8c483"
+  "gitHead": "93ea955165f470ed9d429483f9d2be0d10933167"
 }
