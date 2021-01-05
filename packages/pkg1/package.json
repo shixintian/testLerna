@@ -1,5 +1,5 @@
 {
-  "name": "pkg1-ttest",
+  "name": "pkg1-tttest",
   "version": "0.0.9",
   "description": "> TODO: description",
   "author": "shixintian <809731080@qq.com>",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "b00f5c6d8b5ad907ced28fbae49bd7485314a4bc"
+  "gitHead": "b520309dbbae83abcf47d58162227e5727696fc0"
 }

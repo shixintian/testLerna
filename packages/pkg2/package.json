@@ -1,5 +1,5 @@
 {
-  "name": "pkg2-ttest",
+  "name": "pkg2-tttest",
   "version": "0.0.9",
   "description": "> TODO: description",
   "author": "shixintian <809731080@qq.com>",
@@ -22,5 +22,5 @@
   "dependencies": {
     "pkg1-ttest": "^0.0.7"
   },
-  "gitHead": "b00f5c6d8b5ad907ced28fbae49bd7485314a4bc"
+  "gitHead": "b520309dbbae83abcf47d58162227e5727696fc0"
 }
