@@ -1,5 +1,5 @@
 {
-  "name": "@sxt/pkg1-ttttest",
+  "name": "@sxt/pkg1-atest",
   "version": "0.0.16",
   "description": "> TODO: description",
   "author": "shixintian <809731080@qq.com>",
@@ -14,11 +14,10 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "24f3d0da852c57da7cb4db2a3836880f3299c729"
+  "gitHead": "96153ee771e82d0c7e7fd1ceea3ff9a4734e2755"
 }
