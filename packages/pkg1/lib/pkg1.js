@@ -4,5 +4,5 @@ module.exports = pkg1;
 
 function pkg1() {
     // TODO
-    console.log(122e4323);
+    console.log(12223);
 }
