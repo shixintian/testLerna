@@ -1,5 +1,5 @@
 {
-  "name": "pkg2-ttttest",
+  "name": "@sxt/pkg2-ttttest",
   "version": "0.0.15",
   "description": "> TODO: description",
   "author": "shixintian <809731080@qq.com>",
@@ -21,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "pkg1-ttttest": "^0.0.7"
+    "@sxt/pkg1-ttttest": "^0.0.7"
   },
   "gitHead": "24f3d0da852c57da7cb4db2a3836880f3299c729"
 }
